@@ -1,4 +1,4 @@
-# Calculator
+# Alarm
 
 <p>The project is a minimalist alarm app that allows users to easily set the desired alarm time. With an intuitive interface, the user can enter the exact time they want the alarm to go off. The system is then programmed to alert the user when the set time has been reached. When activated, the alarm will emit a clear and distinct sound to notify the user of the scheduled time. Full of basic and efficient features, the project was developed with a focus on simplicity and ease of use, ensuring a direct and uncomplicated experience for users.</p>
 
